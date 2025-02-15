@@ -1,4 +1,6 @@
-UI application for Windows 7-11 that lets you define transparency values for Focused and unfocused Windows
+**UI application for Windows 7-11**
+
+lets you adjust transparency values for focused and unfocused windows
 
 https://youtu.be/ffqE4dLpdPA?si=3LRoUbKHHrC80tkg
 
