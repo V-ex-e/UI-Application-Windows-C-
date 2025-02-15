@@ -2,7 +2,7 @@
 
 lets you adjust transparency values for focused and unfocused windows
 
-https://youtu.be/ffqE4dLpdPA?si=3LRoUbKHHrC80tkg
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffqE4dLpdPA?si=3LRoUbKHHrC80tkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
